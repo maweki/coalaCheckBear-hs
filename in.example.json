@@ -1,0 +1,5 @@
+{
+    "filename": "file.txt",
+    "file": ["Here we have a Coala", "One Coala and another Coala", "Nothing here"],
+    "settings": {"a_setting": "value", "another_setting": "value"}
+}
